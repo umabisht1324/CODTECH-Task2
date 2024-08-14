@@ -1,4 +1,4 @@
-# **CODTECH-Task1**
+# **CODTECH-Task2**
 
 **Name:** Uma Bisht  
 **Company:** CODTECH IT SOLUTIONS  
