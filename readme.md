@@ -1,3 +1,13 @@
+# **CODTECH-Task1**
+
+**Name:** Uma Bisht  
+**Company:** CODTECH IT SOLUTIONS  
+**Inter ID:** CT6DS901  
+**Domain:** Data Science  
+**Duration:** July-August 2024  
+
+## **Overview Of The Project**
+
 # Duplicate Question Pair Detector
 
 This project focuses on detecting duplicate question pairs using traditional NLP techniques and word embeddings like Word2Vec. The application preprocesses the questions using stemming and lemmatization, computes the similarity score using cosine similarity on word embeddings, and provides an interface for users to input questions and determine their similarity.
