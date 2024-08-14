@@ -6,6 +6,9 @@ This project focuses on detecting duplicate question pairs using traditional NLP
 
 The project aims to assist in identifying similar questions in large datasets, which can be particularly useful in forums or Q&A platforms to reduce redundancy and improve user experience.
 
+##UI
+![Duplicate Question Pair Detector](https://github.com/umabisht1324/CODTECH-Task2/blob/main/UI.png)
+
 ## Key Features
 
 - **NLP Preprocessing**: Utilizes stemming, lemmatization, and stop-word removal for effective text processing.
