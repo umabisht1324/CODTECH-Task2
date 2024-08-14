@@ -8,7 +8,7 @@
 
 ## **Overview Of The Project**
 
-# Duplicate Question Pair Detector
+## OBJECTIVE: Duplicate Question Pair Detector
 
 This project focuses on detecting duplicate question pairs using traditional NLP techniques and word embeddings like Word2Vec. The application preprocesses the questions using stemming and lemmatization, computes the similarity score using cosine similarity on word embeddings, and provides an interface for users to input questions and determine their similarity.
 
